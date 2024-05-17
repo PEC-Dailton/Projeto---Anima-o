@@ -3,7 +3,7 @@ function setup() {
 }
 
 function draw() {
-  background(145,18,00);
+  background(145,18,10);
   textSize(40); 
   fill(color(100, 200, 400)); // 
   text("Formadores", 100, 190);
